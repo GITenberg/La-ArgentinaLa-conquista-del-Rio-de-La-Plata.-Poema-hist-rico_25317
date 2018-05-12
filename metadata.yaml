@@ -1,0 +1,41 @@
+_repo: La-ArgentinaLa-conquista-del-Rio-de-La-Plata.-Poema-hist-rico_25317
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Angelis, Pedro de
+    alias: De Angelis, Pedro
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '5056'
+    url: http://www.gutenberg.org/2009/agents/5056
+    wikipedia: http://es.wikipedia.org/wiki/Pedro_de_Angelis
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barco Centenera, Martín del
+    alias: Centenera, Martín del Barco
+    birthdate: 1535
+    gutenberg_agent_id: '31238'
+    url: http://www.gutenberg.org/2009/agents/31238
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25317'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Argentina -- History -- 1535-1617 -- Poetry'
+- !lcsh 'Rio de la Plata Region (Argentina and Uruguay) -- History -- Poetry'
+- !lcsh 'America -- Discovery and exploration -- Spanish -- Poetry'
+- !lcsh 'America -- Early accounts to 1600'
+title: 'La Argentina
+
+  La conquista del Rio de La Plata. Poema histórico'
+url: http://www.gutenberg.org/ebooks/25317
