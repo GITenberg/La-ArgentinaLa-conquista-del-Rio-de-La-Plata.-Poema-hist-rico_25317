@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31238'
     url: http://www.gutenberg.org/2009/agents/31238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25317#La-ArgentinaLa-conquista-del-Rio-de-La-Plata.-Poema-hist-rico
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2008-05-03'
 gutenberg_type: Text
